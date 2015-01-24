@@ -6580,3 +6580,73 @@
 2015-01-22 15:27:25 INFO  TravelAgency:142 - TRANSPORT LIST WAS UPDATED SUCCESSFULLY
 2015-01-22 15:27:39 WARN  Login:1561 - java.lang.ArrayIndexOutOfBoundsException
 2015-01-22 15:29:25 INFO  TravelAgency:160 - ATTRACTIONS LIST WAS UPDATED SUCCESSFULLY
+2015-01-24 22:17:48 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2015-01-24 22:17:49 INFO  Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2015-01-24 22:17:49 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2015-01-24 22:17:49 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2015-01-24 22:17:49 INFO  Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2015-01-24 22:17:49 INFO  Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2015-01-24 22:17:49 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:17:49 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Person.hbm.xml
+2015-01-24 22:17:50 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Hotel.hbm.xml
+2015-01-24 22:17:50 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:17:50 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Attraction.hbm.xml
+2015-01-24 22:17:50 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:17:50 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Transport.hbm.xml
+2015-01-24 22:17:50 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:17:50 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Travel.hbm.xml
+2015-01-24 22:17:50 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:17:50 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/History.hbm.xml
+2015-01-24 22:17:50 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:17:50 INFO  Configuration:2214 - HHH000041: Configured SessionFactory: null
+2015-01-24 22:17:51 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-01-24 22:17:51 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/travelagency?zeroDateTimeBehavior=convertToNull]
+2015-01-24 22:17:51 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2015-01-24 22:17:51 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2015-01-24 22:17:51 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2015-01-24 22:17:56 INFO  DriverManagerConnectionProviderImpl:281 - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost:3306/travelagency?zeroDateTimeBehavior=convertToNull]
+2015-01-24 22:21:33 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2015-01-24 22:21:33 INFO  Version:54 - HHH000412: Hibernate Core {4.3.1.Final}
+2015-01-24 22:21:33 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2015-01-24 22:21:33 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2015-01-24 22:21:33 INFO  Configuration:2073 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2015-01-24 22:21:33 INFO  Configuration:2092 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2015-01-24 22:21:35 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:21:35 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Person.hbm.xml
+2015-01-24 22:21:36 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Hotel.hbm.xml
+2015-01-24 22:21:36 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:21:36 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Attraction.hbm.xml
+2015-01-24 22:21:36 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:21:36 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Transport.hbm.xml
+2015-01-24 22:21:36 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:21:36 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/Travel.hbm.xml
+2015-01-24 22:21:36 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:21:36 INFO  Configuration:757 - HHH000221: Reading mappings from resource: travelagency/History.hbm.xml
+2015-01-24 22:21:36 WARN  DTDEntityResolver:75 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2015-01-24 22:21:36 INFO  Configuration:2214 - HHH000041: Configured SessionFactory: null
+2015-01-24 22:21:37 WARN  DriverManagerConnectionProviderImpl:93 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2015-01-24 22:21:37 INFO  DriverManagerConnectionProviderImpl:166 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/travelagency?zeroDateTimeBehavior=convertToNull]
+2015-01-24 22:21:37 INFO  DriverManagerConnectionProviderImpl:175 - HHH000046: Connection properties: {user=root, password=****}
+2015-01-24 22:21:37 INFO  DriverManagerConnectionProviderImpl:180 - HHH000006: Autocommit mode: false
+2015-01-24 22:21:37 INFO  DriverManagerConnectionProviderImpl:102 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2015-01-24 22:21:39 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-01-24 22:21:39 INFO  TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2015-01-24 22:21:40 INFO  ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2015-01-24 22:21:46 WARN  HqlSqlWalker:995 - [DEPRECATION] Encountered positional parameter near line 1, column 40.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2015-01-24 22:21:46 WARN  HqlSqlWalker:995 - [DEPRECATION] Encountered positional parameter near line 1, column 57.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2015-01-24 22:21:46 INFO  Login:61 - LOGGED IN AS: a (NAME: Konrad SURNAME: Boguń)
+2015-01-24 22:21:49 INFO  Login:48 - TRAVEL LIST - 0
+2015-01-24 22:21:49 INFO  Login:49 - HOTEL LIST - 0
+2015-01-24 22:21:49 INFO  Login:50 - TANSPORT LIST - 0
+2015-01-24 22:21:49 INFO  Login:51 - ATTRACTIONS LIST - 0
+2015-01-24 22:22:46 INFO  TravelAgency:153 - TRAVEL LIST WAS UPDATED SUCCESSFULLY
+2015-01-24 22:28:19 WARN  HqlSqlWalker:995 - [DEPRECATION] Encountered positional parameter near line 1, column 38.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2015-01-24 22:28:19 INFO  TravelAgency:199 - HOTEL LIST WAS UPDATED SUCCESSFULLY
+2015-01-24 22:28:19 INFO  TravelAgency:199 - HOTEL LIST WAS UPDATED SUCCESSFULLY
+2015-01-24 22:28:30 INFO  TravelAgency:221 - TRANSPORT LIST WAS UPDATED SUCCESSFULLY
+2015-01-24 22:29:06 INFO  TravelAgency:243 - ATTRACTIONS LIST WAS UPDATED SUCCESSFULLY
+2015-01-24 22:50:19 WARN  Login:52 - org.hibernate.hql.internal.ast.QuerySyntaxException: TravelOrder is not mapped [FROM TravelOrder WHERE id = ?]
+2015-01-24 22:50:19 INFO  Login:1696 - BUY TRAVEL - SUCCESSFUL
+2015-01-24 22:50:24 WARN  HqlSqlWalker:995 - [DEPRECATION] Encountered positional parameter near line 1, column 44.  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2015-01-24 22:50:24 INFO  TravelAgency:176 - HISTORY LIST WAS UPDATED SUCCESSFULLY
+2015-01-24 22:50:27 INFO  TravelAgency:176 - HISTORY LIST WAS UPDATED SUCCESSFULLY
