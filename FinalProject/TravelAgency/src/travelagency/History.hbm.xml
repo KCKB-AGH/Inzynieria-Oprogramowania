@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class catalog="travelagency" name="travelagency.History" table="history">
+    <id name="id" type="java.lang.Integer">
+      <column name="id"/>
+      <generator class="identity"/>
+    </id>
+    <property name="idPerson" type="int">
+      <column name="idPerson" not-null="true"/>
+    </property>
+    <property name="idTravel" type="int">
+      <column name="idTravel" not-null="true"/>
+    </property>
+    <property name="idHotel" type="int">
+      <column name="idHotel" not-null="true"/>
+    </property>
+    <property name="idTransport" type="int">
+      <column name="idTransport" not-null="true"/>
+    </property>
+    <property name="idAttraction" type="int">
+      <column name="idAttraction" not-null="true"/>
+    </property>
+    <property name="startDate" type="date">
+      <column name="startDate" not-null="false"/>
+    </property>
+    <property name="endDate" type="date">
+      <column name="endDate" not-null="false"/>
+    </property>
+    <property name="name" type="string">
+      <column length="50" name="name" not-null="true"/>
+    </property>
+    <property name="city" type="string">
+      <column length="50" name="city" not-null="true"/>
+    </property>
+    <property name="price" type="double">
+      <column name="price" not-null="true" precision="22" scale="0"/>
+    </property>
+  </class>
+</hibernate-mapping>
