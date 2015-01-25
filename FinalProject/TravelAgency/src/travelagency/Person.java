@@ -12,7 +12,7 @@ import org.hibernate.exception.JDBCConnectionException;
 
 
 /**
- * This class represents an order in TravelAgency.
+ * This class represents user in TravelAgency.
  * 
  * @author Konrad
  * @version 1.0
