@@ -27,7 +27,35 @@ public class History {
      */
     public History() {
     }
+    
+   /**
+    * Class constructor specifying all properties of objects to create.
+    * @param idPerson
+    * @param idTravel
+    * @param idHotel
+    * @param idTransport
+    * @param idAttraction
+    * @param startDate
+    * @param endDate
+    * @param name
+    * @param city
+    * @param price
+    */   
+    public History(Integer idPerson, Integer idTravel, Integer idHotel, Integer idTransport, Integer idAttraction, Date startDate, Date endDate, String name, String city, double price) {
+        this.idPerson = idPerson;
+        this.idTravel = idTravel;
+        this.idHotel = idHotel;
+        this.idTransport = idTransport;
+        this.idAttraction = idAttraction;
+        this.startDate = startDate;
+        this.endDate = endDate;
+        this.name = name;
+        this.city = city;
+        this.price = price;
+    }
 
+    
+    
     /**
      * Get the value of id
      *
